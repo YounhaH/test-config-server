@@ -1,0 +1,10 @@
+server:
+  port: 9500
+
+spring:
+  application:
+    name: USER-SERVER
+
+property:
+  user:
+    name: hero
